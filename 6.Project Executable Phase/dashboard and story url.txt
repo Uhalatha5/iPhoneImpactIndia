@@ -1,0 +1,15 @@
+DASHBOARD URL's:
+
+Exclusive summary: https://public.tableau.com/views/ProjectFileSmartBridge_17510860466580/EXCLUSIVESUMMARYDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Product Insights : https://public.tableau.com/views/productinsights/ProductInsightsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Market Share : https://public.tableau.com/views/marketshare_17510863711690/MarketShareDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Sales and Revenue Trends : https://public.tableau.com/views/SALESREVENUETRENDS/SalesRevenueTrendsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link                 
+
+STORIES:
+
+Market Power : https://public.tableau.com/views/MARKETPOWER/MarketPowerStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Market Story : https://public.tableau.com/views/MARKETSTORY/CrackingtheMarketStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
